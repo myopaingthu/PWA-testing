@@ -25,22 +25,22 @@ export default defineConfig({
         display: "standalone",
         icons: [
           {
-            src: 'img/icons/icon-192x192.png',
+            src: 'favicon.ico',
             sizes: '192x192',
             type: 'image/png'
           },
           {
-            src: 'img/icons/icon-256x256.png',
+            src: 'favicon.ico',
             sizes: '256x256',
             type: 'image/png'
           },
           {
-            src: 'img/icons/icon-384x384.png',
+            src: 'favicon.ico',
             sizes: '384x384',
             type: 'image/png'
           },
           {
-            src: 'img/icons/icon-512x512.png',
+            src: 'favicon.ico',
             sizes: '512x512',
             type: 'image/png'
           },
